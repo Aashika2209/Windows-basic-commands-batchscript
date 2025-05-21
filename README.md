@@ -24,98 +24,58 @@ Execute the necessary commands/batch file for the desired output.
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
 
-## COMMAND AND OUTPUT
+![WhatsApp Image 2025-05-21 at 05 04 21_f645bb0f](https://github.com/user-attachments/assets/a3e8d926-218f-48fb-8aec-d2a62ea2f116)
 
+
+## COMMAND AND OUTPUT
 Remove the directory "my-folder"
 
+![WhatsApp Image 2025-05-21 at 05 04 28_9f7fb383](https://github.com/user-attachments/assets/d1fe9e84-79da-4f31-9f72-b8e627c1f3eb)
+
+
 ## COMMAND AND OUTPUT
 
+![WhatsApp Image 2025-05-21 at 05 04 41_cf5fee73](https://github.com/user-attachments/assets/74a660cf-3a12-4f28-9d3f-2c00593f28a7)
 
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
 
+![WhatsApp Image 2025-05-21 at 05 04 45_3ba3e416](https://github.com/user-attachments/assets/8455207b-ab03-432e-9119-afc71555138b)
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
 
+![WhatsApp Image 2025-05-21 at 05 04 41_cb3348a7](https://github.com/user-attachments/assets/7cdc3e01-4c93-4744-8b99-2409a0e4cd35)
+
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
+
+![WhatsApp Image 2025-05-21 at 05 04 28_34230b13](https://github.com/user-attachments/assets/5fbb6a6c-dc75-4c0c-95b9-f4018b25ea52)
 
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
 
+![WhatsApp Image 2025-05-21 at 05 04 51_53a27ed8](https://github.com/user-attachments/assets/c48873a0-84db-4298-a9ed-e4329b4bcc87)
+
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
 
+![WhatsApp Image 2025-05-21 at 05 05 00_57043fcf](https://github.com/user-attachments/assets/21686d1d-32d4-4edb-8dfd-b45902874541)
+
+
 List out all the associated file extensions 
-
-## COMMAND AND OUTPUT
-
-
-Compare the file hello.txt and rose.txt
-
-## COMMAND AND OUTPUT
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 
-
-
-
-
 ## OUTPUT
 
-
-
-Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
-Prompt the user to enter a number.
-Calculate the remainder when the number is divided by 2.
-Display whether the number is odd or not.
-Ask the user if they want to check another number.
-Repeat the process if the user enters Y, and exit with a thank-you message if the user enters N.
-Handle invalid inputs for the continuation prompt (Y/N) gracefully.
-
-
-
-## OUTPUT
-
-
-
-
-Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
-
-
-
-
-## OUTPUT
-
-
-
-
-Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
-
-Instructions:
-Use the IF EXIST conditional statement.
-Make sure the script works for files located in the same directory as the batch file.
-Use pause to keep the command window open after displaying the message.
-Expected Output (if the file exists):
-
-## OUTPUT
-
-
-Write a batch script that displays a simple menu with three options:
-Say Hello – Displays the message Hello, World!
-Create a File – Creates a file named newfile.txt with the content This is a new file
-Exit – Exits the script with a goodbye message
-The script should repeatedly display the menu until the user chooses to exit. Use goto statements to handle menu navigation.
-
-
-## OUTPUT
+![Screenshot 2025-05-21 045645](https://github.com/user-attachments/assets/092698ac-bcdd-473a-a454-a52e324f57ee)
 
 
 
